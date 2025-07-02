@@ -36,7 +36,7 @@ unzip 'hello-world-master+(1).zip'
 ```
 ```
 ls
-rm hello-world-master.zip
+rm hello-world-master+(1).zip
 ```
 ```
 cd hello-world-master
