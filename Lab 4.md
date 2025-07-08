@@ -10,7 +10,7 @@ This lab focuses on configuring Git WebHooks to automatically trigger Jenkins bu
 2. Go to the **Available** Tab, Search for **GitHub Integration**. Select the **GitHub Integration Plugin** and then on **Install** (without restart).
 3. Once the installation is complete, click on **Go back to the top page**.
 4. In your **hello-world project**, Click on **Configure**.
-5. Go to **Build Triggers** and enable the **GitHub hook trigger for GITScm polling**. Then **Save**.
+5. Go to **Triggers** and enable the **GitHub hook trigger for GITScm polling**. Then **Save**.
 6. Go to your **GitHub website**, and inside the **hello-world** repository > **Settings** > **Webhooks** and Click on the **Add Webhook**.
 7. Now fill in the details as below.
 #### Payload URL Example: 
